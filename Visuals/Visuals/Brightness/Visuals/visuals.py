@@ -34,8 +34,10 @@ if pred<.5 : flag1=1
 else : flag2=1
 #print("Not Presentation")
 
-if flag1==1 and flag2==0 : print("White Board")
-if flag2==1 and flag1==0 : print("Tutor")
+if flag1==1 and flag2==0 : print("White_Board")
+if flag2==1 and flag1==0 : print("Tutor_")
+
 if flag1==1 and flag2==1 : print("WhiteBoard+Tutor")
+
 
 
