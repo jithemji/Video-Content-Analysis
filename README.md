@@ -52,8 +52,7 @@ provide a more grip on the qualitative analysis.
 
 ## Contribute
 
-Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+Contributions are always welcome! We are more than happy to collaborate!!!
 
 ## License
 
