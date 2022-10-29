@@ -58,4 +58,4 @@ Contributions are always welcome! We are more than happy to collaborate!!!
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, <a href="mailto:devangu@iitk.ac.in">Devang Uniyal</a>, <a href="mailto:jithemji@iitk.ac.in">Jitesh Hemji</a>, <a href="mailto:veerby@iitk.ac.in">Veer Bhadra Yadav</a>, <a href="mailto:veerby@iitk.ac.in">Veer Bhadra Yadav</a>, <a href="mailto:fhamid@iitk.ac.in">Faiz Hamid</a>  has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, <a href="mailto:devangu@iitk.ac.in">Devang Uniyal</a>, <a href="mailto:jithemji@iitk.ac.in">Jitesh Hemji</a>, <a href="mailto:veerby@iitk.ac.in">Veer Bhadra Yadav</a>, <a href="mailto:fhamid@iitk.ac.in">Faiz Hamid</a>  has waived all copyright and related or neighboring rights to this work.
